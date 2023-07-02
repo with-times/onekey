@@ -1,0 +1,33 @@
+{
+  "name": "onekeys",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "@tabler/icons-vue": "^2.11.0",
+    "axios": "^1.3.5",
+    "element-plus": "^2.3.3",
+    "less": "^4.1.3",
+    "moment": "^2.29.4",
+    "naive-ui": "^2.34.3",
+    "pinia": "^2.0.34",
+    "pinia-plugin-persist": "^1.0.0",
+    "sweetalert2": "^11.7.3",
+    "uikit": "^3.16.9",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6",
+    "vue-wechat-title": "^2.0.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "unplugin-auto-import": "^0.15.3",
+    "unplugin-vue-components": "^0.24.1",
+    "vite": "^4.1.0"
+  }
+}

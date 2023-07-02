@@ -1,0 +1,23 @@
+@import 'uikit';
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.uk-label-tag{
+    display: inline-block;
+    padding: 0.357rem 0.714rem;
+    margin: 0 5px 5px 0;
+    background: rgba(79, 79, 79, 0.8);
+    color: rgba(255, 255, 255, 0.8);
+    border-radius: 1.786rem;
+    font-size: 0.543rem;
+    transition: background-color 0.3s ease-in-out;
+}
+.uk-label-tag:hover{
+    background: rgba(58, 58, 58, 0.3);
+}
+
+.uk-modal-dialog {
+    background-color: #363636;
+}
